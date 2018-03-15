@@ -55,9 +55,9 @@ pre {
     font-size: 70%;
     text-align: center;
     text-decoration: none;
-    padding: 2% 4%;
-    border-radius: 0.2em;
-    margin-left: 3% !important;
+    padding: 6px 12px;
+    border-radius: 3px;
+    margin-left: 14px !important;
 }
 
 .sidebar {
