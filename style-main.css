@@ -1,4 +1,4 @@
-.html {
+html {
 
 }
 
@@ -52,12 +52,13 @@ pre {
     border: none;
     color: white;
     display: inline-block;
-    font-size: 70%;
+    font-size: 0.4em;
     text-align: center;
     text-decoration: none;
     padding: 6px 12px;
     border-radius: 3px;
     margin-left: 14px !important;
+
 }
 
 .sidebar {
