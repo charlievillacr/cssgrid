@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "CSS Grid Studies",
   "main": "index.html",
-  "scripts": {},
+  "scripts": {
+    
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/charlievillacr/cssgrid.git"
