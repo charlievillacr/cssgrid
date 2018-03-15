@@ -6,7 +6,7 @@
         "title title"
         "main masthead"
         "main sidebar"
-        "footer footer"
+        "footer footer";
 }
 
 @media screen and (min-width: 600px) {
@@ -14,8 +14,9 @@
         grid-template-columns:  2fr 1fr 1fr;
         grid-template-areas: 
             "title title title"
-            "main sidebar sidebar"
             "main masthead footer"
+            "main sidebar sidebar"
+            
     }
 }
 
