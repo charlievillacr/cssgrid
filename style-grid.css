@@ -11,3 +11,13 @@
     grid-column: 2/4;
     grid-row: 2/3;
 }
+
+.page-title {
+    grid-column: 1/4;
+    grid-row: 1/2;
+}
+
+.main-content {
+    grid-column: 1/2;
+    grid-row: 2/4;
+}
