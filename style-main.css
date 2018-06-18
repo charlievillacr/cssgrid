@@ -1,6 +1,9 @@
 html {
-
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
 }
+
+
 
 body, button, input, select, textarea {
      font-family: 'Source Sans Pro', 'Helvetica', "Arial";
@@ -69,4 +72,8 @@ pre {
 .footer-content {
     background-color: #2937D4;
 
+}
+
+.site {
+    margin: 1em;
 }
