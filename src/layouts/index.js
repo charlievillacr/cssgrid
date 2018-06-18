@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header'
 import './index.css'
+import './grid.css'
 
 const Layout = ({ children, data }) => (
   <div>
@@ -24,6 +25,7 @@ const Layout = ({ children, data }) => (
       }}
     >
       {children()}
+      
     </div>
   </div>
 )
