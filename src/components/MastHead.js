@@ -18,7 +18,7 @@ const ClassName = styled.div`
 
 const MainDiv = styled.div`
     background-color: #B969D3;
-    grid-area: MastHead;
+    grid-area: masthead;
 `
 
 const Titulo = styled.h2`
@@ -43,7 +43,7 @@ const Description = styled.p`
 const MastHead = () => (
 
     <MainDiv>
-        <ClassName>.masthead</ClassName>
+        <ClassName>masthead</ClassName>
         <Titulo>Masthead</Titulo>
         <Description>Masthead container</Description>
     </MainDiv>

@@ -43,7 +43,7 @@ const Description = styled.p`
 const SideBar = () => (
 
     <MainDiv>
-        <ClassName>.sidebar</ClassName>
+        <ClassName>SideBar</ClassName>
         <Titulo>Sidebar</Titulo>
         <Description>The place where things of less relevance apear.</Description>
     </MainDiv>

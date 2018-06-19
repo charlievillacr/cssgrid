@@ -43,8 +43,8 @@ const Description = styled.p`
 const PageTitle = () => (
 
     <MainDiv>
-        <ClassName>.page-title</ClassName>
-        <Titulo>CSS Grid</Titulo>
+        <ClassName>PageTitle</ClassName>
+        <Titulo>Title of the page</Titulo>
         <Description>Demo sandbox for Advanced Layout with CSS Grid.</Description>
     </MainDiv>
 )

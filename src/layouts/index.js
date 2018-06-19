@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header'
 import './index.css'
-import './grid.css'
+import './indexgrid.css'
 
 const Layout = ({ children, data }) => (
   <div>

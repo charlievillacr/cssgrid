@@ -18,7 +18,7 @@ const ClassName = styled.div`
 
 const MainDiv = styled.div`
     background-color: #2937D4;
-    grid-area: Footer;
+    grid-area: footercont;
 `
 
 const Titulo = styled.h2`
@@ -43,7 +43,7 @@ const Description = styled.p`
 const Footer = () => (
 
     <MainDiv>
-        <ClassName>.footer</ClassName>
+        <ClassName>footercont</ClassName>
         <Titulo>Footer</Titulo>
         <Description>The place where site nav and other meta info typically appears.</Description>
     </MainDiv>

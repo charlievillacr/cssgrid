@@ -44,7 +44,7 @@ const Description = styled.p`
 const MainContent = () => (
 
     <MainDiv>
-        <ClassName>.main-content</ClassName>
+        <ClassName>MainContent</ClassName>
         <Titulo>Main content</Titulo>
         <Description>This where the main bulk of the document content would go.</Description>
     </MainDiv>
